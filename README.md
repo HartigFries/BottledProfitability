@@ -30,5 +30,6 @@ This summarized table was then used for **Vendor Performance Analysis** and **Hy
 in [`VPA.ipynb`](VPA.ipynb), the key results of which were put into a **PowerBI Dashboard**  
 for clients and stakeholders.
 
-![BI Report](BI_Report.pdf)![Flow Chart showing the steps behind the project as well as the programming languages and applications used.]
+![BI Dashboard](BI_Report.pdf)
+
 
