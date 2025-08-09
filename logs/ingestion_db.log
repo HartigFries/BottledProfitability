@@ -1,0 +1,7 @@
+2025-07-27 15:27:30,169 - INFO - ingesting file: begin_inventory.csv in inventory.db
+2025-07-27 15:27:32,439 - INFO - ingesting file: end_inventory.csv in inventory.db
+2025-07-27 15:27:38,623 - INFO - ingesting file: purchases.csv in inventory.db
+2025-07-27 15:28:20,103 - INFO - ingesting file: purchase_prices.csv in inventory.db
+2025-07-27 15:28:37,399 - INFO - ingesting file: sales.csv in inventory.db
+2025-07-27 15:33:30,833 - INFO - ingesting file: vendor_invoice.csv in inventory.db
+2025-07-27 15:33:30,971 - INFO - |====================Ingestion Complete====================|2025-07-31 04:04:13,907 - INFO - Data ingested into table: vendor_sales_summary
