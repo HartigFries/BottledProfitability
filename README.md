@@ -30,20 +30,5 @@ This summarized table was then used for **Vendor Performance Analysis** and **Hy
 in [`VPA.ipynb`](VPA.ipynb), the key results of which were put into a **PowerBI Dashboard**  
 for clients and stakeholders.
 
-![BI Report](BI_Report.pdf)![Flow Chart showing the steps behind the project as well as the programming languages and applications used.](BottledProfitability.svg)
-
-The [data](data), given in CSV files, was put into the database `inventory.db`  
-(Not in the repository as the database is 2GB) via [`ingestion_db.py`](ingestion_db.py)  
-in order to simulate working with databases provided by a company.
-
-The data from this database was then loaded into a pandas dataframe in [`ECM.ipynb`](ECM.ipynb)  
-then analysed to create a **summary table** containing all the information to conduct a vendor analysis,  
-which was saved back into `inventory.db`.  
-It was saved using an optimized multi-CTE SQL Query.
-
-This summarized table was then used for **Vendor Performance Analysis** and **Hypothesis Testing**  
-in [`VPA.ipynb`](VPA.ipynb), the key results of which were put into a **PowerBI Dashboard**  
-for clients and stakeholders.
-
-![BI Report](BI_Report.pdf)
+![BI Report](BI_Report.pdf)![Flow Chart showing the steps behind the project as well as the programming languages and applications used.]
 
